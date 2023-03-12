@@ -46,6 +46,11 @@ Visualization Toolkit具有强大的三维图形功能。Visualization Toolkit �
 
 # 三、运行截图
 
+![run1](https://github.com/imrewang/RealisticScenery/blob/main/screenshot/run1.png?raw=true)
+
+![run2](https://github.com/imrewang/RealisticScenery/blob/main/screenshot/run2.png?raw=true)
+
+![run3](https://github.com/imrewang/RealisticScenery/blob/main/screenshot/run3.png?raw=true)
 
 
 # 四、参考文献
